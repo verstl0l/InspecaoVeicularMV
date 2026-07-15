@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="niveis_combustivel">
+        <item>Selecione o nível</item>
+        <item>Reserva</item>
+        <item>1/4</item>
+        <item>1/2</item>
+        <item>3/4</item>
+        <item>Cheio</item>
+    </string-array>
+</resources>
